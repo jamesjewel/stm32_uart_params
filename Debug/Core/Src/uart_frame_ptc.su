@@ -1,0 +1,5 @@
+../Core/Src/uart_frame_ptc.c:40:6:uart_frame_check	40	static
+../Core/Src/uart_frame_ptc.c:107:6:uart_timeout	8	static
+../Core/Src/uart_frame_ptc.c:115:7:uart_frame_getparam	16	static
+../Core/Src/uart_frame_ptc.c:119:6:_clearbuffer	24	static
+../Core/Src/uart_frame_ptc.c:126:10:_crc16	24	static
